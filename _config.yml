@@ -11,6 +11,7 @@ feed:
 
 # Jekyll configuration
 
+baseurl: /neuroaccounting
 sass:
   sass_dir: _sass
   style: compressed
