@@ -5,13 +5,12 @@ description: "description"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url: https://sluga.github.io/neuroaccounting/
+url: https://sluga.github.io/neuroaccounting
 feed:
   path: atom.xml
 
 # Jekyll configuration
 
-#baseurl: /neuroaccounting
 sass:
   sass_dir: _sass
   style: compressed
