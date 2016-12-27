@@ -1,6 +1,6 @@
 ---
 layout: article
-permalink: /top3/
+permalink: /people/
 title: ""
 ---
 

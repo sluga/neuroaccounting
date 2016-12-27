@@ -1,6 +1,6 @@
 ---
 layout: article
-permalink: /top2/
+permalink: /contact/
 title: ""
 ---
 
